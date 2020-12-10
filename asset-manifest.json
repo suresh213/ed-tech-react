@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ed-tech-react/static/css/main.e186b180.chunk.css",
+    "main.js": "/ed-tech-react/static/js/main.225f8d32.chunk.js",
+    "main.js.map": "/ed-tech-react/static/js/main.225f8d32.chunk.js.map",
+    "runtime-main.js": "/ed-tech-react/static/js/runtime-main.78553341.js",
+    "runtime-main.js.map": "/ed-tech-react/static/js/runtime-main.78553341.js.map",
+    "static/js/2.db0b5f71.chunk.js": "/ed-tech-react/static/js/2.db0b5f71.chunk.js",
+    "static/js/2.db0b5f71.chunk.js.map": "/ed-tech-react/static/js/2.db0b5f71.chunk.js.map",
+    "index.html": "/ed-tech-react/index.html",
+    "static/css/main.e186b180.chunk.css.map": "/ed-tech-react/static/css/main.e186b180.chunk.css.map",
+    "static/js/2.db0b5f71.chunk.js.LICENSE.txt": "/ed-tech-react/static/js/2.db0b5f71.chunk.js.LICENSE.txt",
+    "static/media/icon1.d60f0dc3.png": "/ed-tech-react/static/media/icon1.d60f0dc3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78553341.js",
+    "static/js/2.db0b5f71.chunk.js",
+    "static/css/main.e186b180.chunk.css",
+    "static/js/main.225f8d32.chunk.js"
+  ]
+}
